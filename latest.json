@@ -1,6 +1,6 @@
 {
-  "version": "0.7.3",
+  "version": "0.8.0",
   "url": "https://media.githubusercontent.com/media/BellCrunel/Relict-Trade-releases/refs/heads/main/RelictTrade.exe",
-  "notes": "Сторож бота (сам піднімає бота, якщо той зник); попередження при запуску з папки оновлень",
-  "published": "2026-10-02T17:15:58Z"
+  "notes": "Прибрано копіювання гаманців; дослідження 4 нових стратегій",
+  "published": "2026-10-03T18:40:22Z"
 }
